@@ -16,3 +16,13 @@ body {
   align-items: center;
   justify-content: center;
 }
+#gameContainer {
+  background-color: blue;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cube {
+  width: 18px;
+  height: 18px;
+  border: 1px solid black;
+}
