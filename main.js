@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-/* eslint-disable no-undef */
+
 var mainContainer = document.getElementById("mainContainer");
 
 // function getRandomInt(max) {
@@ -111,6 +111,7 @@ var diedLocation;
 var playerIndicesX;
 var playerIndicesY;
 var playerIndices;
+var playerLocation;
 var score;
 var targetID;
 var scoreLabel;
